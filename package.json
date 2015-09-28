@@ -1,7 +1,7 @@
 {
   "name": "event-attributes",
   "description": "Map of HTML and SVG event attributes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "homepage": "https://github.com/stevenvachon/event-attributes",
   "author": {
@@ -16,8 +16,15 @@
   "bugs": {
     "url": "https://github.com/stevenvachon/event-attributes/issues"
   },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
   "engines": {
     "node": ">= 0.10"
+  },
+  "scripts": {
+    "test": "mocha test --reporter spec --check-leaks --bail --no-exit"
   },
   "files": [
     "index.js",

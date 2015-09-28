@@ -73,7 +73,7 @@
 		ondurationchange: true,
 		onemptied: true,
 		onended: true,
-		onerror: true,
+		//onerror: true,
 		onloadeddata: true,
 		onloadedmetadata: true,
 		onloadstart: true,
@@ -91,7 +91,7 @@
 		onwaiting: true,
 		
 		// Misc Events
-		onerror: true,
+		//onerror: true,
 		onshow: true,
 		ontoggle: true
 	};
