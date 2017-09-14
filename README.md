@@ -27,7 +27,7 @@ Accessible via `define()` or `window.eventAttributes`.
 
 
 [npm-image]: https://img.shields.io/npm/v/event-attributes.svg
-[npm-url]: https://npmjs.org/package/event-attributes
+[npm-url]: https://npmjs.com/package/event-attributes
 [bower-image]: https://img.shields.io/bower/v/event-attributes.svg
 [bower-url]: https://github.com/stevenvachon/event-attributes
 [travis-image]: https://img.shields.io/travis/stevenvachon/event-attributes.svg
